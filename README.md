@@ -5,7 +5,9 @@ import java.util.Scanner;
 <br>
 public class BubbleSort
 {
-    public static void main(String args[]) {
+    public static void main(String args[]) 
+    <br>
+    {
         Scanner in = new Scanner(System.in);
         int arr[] = new int[20];
         System.out.println("Enter 20 numbers:");
