@@ -1,7 +1,8 @@
 # bubblesort_using_java
 #the code goes as:
+<br>
 import java.util.Scanner;
-
+<br>
 public class BubbleSort
 {
     public static void main(String args[]) {
